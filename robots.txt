@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://mosquitocontrol​westonma/sitemap.xml
+Sitemap: https://mosquitocontrol​westonma.vercel.app/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
