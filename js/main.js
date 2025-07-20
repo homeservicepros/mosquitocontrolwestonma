@@ -15,10 +15,10 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 
-    // adding webmaster verification;
+  // adding webmaster verification;
   var meta = document.createElement('meta');
   meta.name = "google-site-verification";
-  meta.content = "jrBotqp73l_mqpKB4FmN8JPpDYyF_XJg2-OTDVf8uzw";
+  meta.content = "Eo5U_Q8YHsZbPmHMDamLjLXBv6hCA9sxj5qYc6qcbPY";
   document.head.appendChild(meta);
   
   // Lazy load images for better performance
